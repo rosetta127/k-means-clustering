@@ -22,6 +22,8 @@ The part of the algorithm that was parallelized is the evaluation of multiple k 
 * Required libraries: pandas, numpy, matplotlib, mpi4py, scikit-learn
 
 * MPI installation
+  
+* download the dataset via this link https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023/data
 
 ## Data
 
