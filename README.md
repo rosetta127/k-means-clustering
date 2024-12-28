@@ -29,7 +29,7 @@ The part of the algorithm that was parallelized is the evaluation of multiple k 
 
 * Input Data: The dataset ECommerce_consumer behaviour.csv should be placed in the same directory as the code files. 
 
-The dataset is preprocessed to create a cross-tabulated matrix of user activity by department.
+* The dataset is preprocessed to create a cross-tabulated matrix of user activity by department.
 
 ## Files
 
